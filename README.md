@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🌱 Jeg jobber for tiden med **teknologrekruttering i**<em><a href = "https://www.linkedin.com/company/25810/",Systek</em>
+- 🌱 Jeg jobber for tiden med **teknologrekruttering i**<em><a href = "https://www.linkedin.com/company/25810/",Systek></em>
 
 - 💬 Spør meg gjerne om: **Valgte emner, karriereutsikter og handicapet mitt i golf ⛳**
 

@@ -1,7 +1,9 @@
 <h1 align="center">Hei 👋 Jeg heter Hans</h1>
 <h3 align="center">Student i Informatikk: digital økonomi og ledelse, ved UiO</h3>
+<br>
+<br>
 
-- 🌱 Jeg jobber for tiden med **teknologrekruttering i Systek**
+- 🌱 Jeg jobber for tiden med **teknologrekruttering i**<em><a href = "https://www.linkedin.com/company/25810/",Systek</em>
 
 - 💬 Spør meg gjerne om: **Valgte emner, karriereutsikter og handicapet mitt i golf ⛳**
 

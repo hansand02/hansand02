@@ -3,15 +3,16 @@
 <br>
 <br>
 
-- 🌱 Jeg jobber for tiden med **teknologrekruttering i**<h4><em><a href = "https://www.linkedin.com/company/25810/",Systek></em><h4>
+ 🌱 Jeg jobber for tiden med **teknologrekruttering i** 
+ <a href="https://www.linkedin.com/company/25810/" target = "blank" Hans >
 
-- 💬 Spør meg gjerne om: **Valgte emner, karriereutsikter og handicapet mitt i golf ⛳**
+ 💬 Spør meg gjerne om: **Valgte emner, karriereutsikter og handicapet mitt i golf ⛳**
 
-- 📫 How to reach me **Hans.andersen02@gmail.com**
+ 📫 Du kan nå meg på **Hans.andersen02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hans-andersen-1648a8224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hansandersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,6 +7,7 @@
 
  🌱 Jeg jobber for tiden med **teknologrekruttering i Systek** 
 <br>
+
  💬 Spør meg gjerne om: **Valgte emner, karriereutsikter eller handicapet mitt i golf ⛳**
 <br>
  📫 Du kan nå meg på **Hans.andersen02@gmail.com**

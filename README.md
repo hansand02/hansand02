@@ -3,10 +3,11 @@
 <br>
 <br>
 
- 🌱 Jeg jobber for tiden med **teknologrekruttering i Systek** <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hansand02&" alt="hansand02" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hansand02&" alt="hansand02" /></p>
+ 🌱 Jeg jobber for tiden med **teknologrekruttering i Systek** 
 
 
- 💬 Spør meg gjerne om: **Valgte emner, karriereutsikter og handicapet mitt i golf ⛳**
+ 💬 Spør meg gjerne om: **Valgte emner, karriereutsikter eller handicapet mitt i golf ⛳**
 
  📫 Du kan nå meg på **Hans.andersen02@gmail.com**
 

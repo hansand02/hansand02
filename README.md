@@ -3,8 +3,7 @@
 <br>
 <br>
 
- 🌱 Jeg jobber for tiden med **teknologrekruttering i** 
- <a href="https://www.linkedin.com/company/25810/" target = "blank" Hans >
+ 🌱 Jeg jobber for tiden med **teknologrekruttering i Systek** <a href="www.linkedin.com/in/hansandersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="30" width="40" /></a>
 
  💬 Spør meg gjerne om: **Valgte emner, karriereutsikter og handicapet mitt i golf ⛳**
 

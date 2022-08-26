@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hansand02&" alt="hansand02" /></p>
+<p><img align="right" src="Hans.jpg" alt="hansand02" /></p>
 
  🌱 Jeg jobber for tiden med **teknologrekruttering i Systek** 
 <br>

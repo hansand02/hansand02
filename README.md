@@ -2,7 +2,7 @@
 <h3 align="center">Student i Informatikk: digital økonomi og ledelse, ved UiO</h3>
 <br>
 <br>
-<img width="812" alt="image" align= "center" src="https://user-images.githubusercontent.com/91554059/188508771-9697a9f6-d78c-4185-a3e0-d00cc33d7497.png">
+<div align = "center"><img width="812" alt="image" align= "right" src="https://user-images.githubusercontent.com/91554059/188508771-9697a9f6-d78c-4185-a3e0-d00cc33d7497.png"></div>
 <p><img src = "Hans.jpg" align="right" width = "300"></p>
 
  🌱 Jeg jobber for tiden med **intern rekruttering i Systek** 

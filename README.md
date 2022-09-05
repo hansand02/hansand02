@@ -9,7 +9,7 @@
 <br>
 
 <p><img src = "Hans.jpg" align="right" width = "200"></p>
-
+<p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hansand02&" alt="hansand02" /></p>
 
 
 
@@ -19,10 +19,6 @@
 <a href="www.linkedin.com/in/hansandersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="30" width="40" /></a>
 <a href="mailto: hans.andersen02@gmail.com?subject=Hei Hans!" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91554059/188510618-45677fd1-cd6e-493c-81bd-e8b8f5d1c21d.png" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="40" width="40" /></a>
 </p>
-
-<p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hansand02&" alt="hansand02" /></p>
-
-
 
 <br>
 <h3 align="left">Språk og ferdigheter:</h3>

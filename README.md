@@ -3,18 +3,15 @@
 <br>
 <br>
 <p align = "center">
-
-<img width="812" alt="image" align= "center" src="https://user-images.githubusercontent.com/91554059/188508771-9697a9f6-d78c-4185-a3e0-d00cc33d7497.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/91554059/188608812-aa9fb16b-e7cd-457f-834c-b3abb5b1ca8e.png">
 
 </p>
 <br>
 <br>
-<br>
-
 
 <p align = "left">
-<h3 align = "left" >&emsp; &emsp; &emsp; &emsp; &nbsp;Kontakt meg:</h3>
-&emsp; &emsp; &emsp; &emsp; &nbsp; &emsp;<a href="www.linkedin.com/in/hansandersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="30" width="40" /></a>
+<h3 align = "left" >Kontakt meg:</h3>
+<a href="www.linkedin.com/in/hansandersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="30" width="40" /></a>
 <a href="mailto: hans.andersen02@gmail.com?subject=Hei Hans!" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91554059/188510618-45677fd1-cd6e-493c-81bd-e8b8f5d1c21d.png" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="40" width="40" /></a>
 </p>
 

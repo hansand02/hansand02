@@ -19,9 +19,7 @@
 <a href="mailto: hans.andersen02@gmail.com?subject=Hei Hans!" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91554059/188510618-45677fd1-cd6e-493c-81bd-e8b8f5d1c21d.png" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="40" width="40" /></a>
 </p>
 
-<p align = "center>
-&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;<img align = "center" src = "Hans.jpg"  width = "220">
-</p>
+
 
 <br>
 <h3 align="left">Språk og ferdigheter:</h3>

@@ -10,6 +10,9 @@
 <br>
 <br>
 
+<img width="230" alt="image" align = "right" src="https://user-images.githubusercontent.com/91554059/188613838-4fc11618-bad7-4e99-b907-daab2dab051e.png">
+
+
 <p align = "left">
 <h3 align = "left" >Kontakt meg:</h3>
 <a href="www.linkedin.com/in/hansandersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hans-andersen-1648a8224/" height="30" width="40" /></a>

@@ -3,7 +3,9 @@
 <br>
 <br>
 <p align = "center">
-<img width="900" alt="image" src="https://user-images.githubusercontent.com/91554059/193800426-064ab640-578e-4b59-bb03-ec2fdb641a16.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/91554059/193800792-30c663a0-ad27-4d9e-b1c9-76d4f891ce26.png">
+
+ ![Screenshot 2022-10-04 at 12 42 42-modified](https://user-images.githubusercontent.com/91554059/193800792-30c663a0-ad27-4d9e-b1c9-76d4f891ce26.png)
 
 
 </p>

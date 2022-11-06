@@ -8,7 +8,6 @@
 </p>
 <br>
 <br>
-<br>
 <p align = "right"><img width="230" alt="image" align = "right" src="https://user-images.githubusercontent.com/91554059/188613838-4fc11618-bad7-4e99-b907-daab2dab051e.png" style="float:right; padding-right:10px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 

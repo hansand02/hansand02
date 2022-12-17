@@ -2,13 +2,14 @@
 <h3 align="center">Student i Informatikk: digital økonomi og ledelse, ved UiO</h3>
 <br>
 <br>
-
-<br>
-
 <p align = "center">
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/91554059/193800792-30c663a0-ad27-4d9e-b1c9-76d4f891ce26.png">
 
 </p>
+<br>
+<p align = "right"><img width="230" alt="image" align = "right" src="https://user-images.githubusercontent.com/91554059/188613838-4fc11618-bad7-4e99-b907-daab2dab051e.png" style="float:right; padding-right:10px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
 <p align = "left">
 
 <h3 align = "left" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kontakt meg:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hei 👋 Jeg heter Hans</h1>
-<h3 align="center">Student i Informatikk: digital økonomi og ledelse, ved UiO</h3>
+<h3 align="center">Student i; Informatikk: programmering og systemarkitektur, ved UiO</h3>
 <br>
 
 ## 🚀 Sjekk ut det nyeste prosjektet mitt

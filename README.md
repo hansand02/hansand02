@@ -2,16 +2,7 @@
 <h3 align="center">Student i; Informatikk: programmering og systemarkitektur, ved UiO</h3>
 <br>
 
-## 🚀 Sjekk ut det nyeste prosjektet mitt
 
-<div align="left">
-  <a href="https://github.com/hansand02/Reinforcement-Learning">
-    <img src="https://raw.githubusercontent.com/hansand02/Reinforcement-Learning/main/assets/trainedNotSlippery.gif" alt="Reinforcement Learning Project" width="400">
-  </a>
-  <p><em>Klikk på gifen for å lese mer</em></p>
-</div>
-
-<br>
 
 <p align = "left">
 
